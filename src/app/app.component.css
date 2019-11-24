@@ -33,7 +33,7 @@
 
 .item {
   font-size: 1.5em;
-  line-height: 1.7;
+  line-height: 1.5;
   font-weight: 500;
 }
 
@@ -41,15 +41,15 @@
   .container {
     grid-template-columns: repeat(1, 1fr);
     grid-auto-rows: min-content;
-    padding: 0.7em;
-    gap: 0.7em;
+    padding: 0.4em;
+    gap: 0.4em;
   }
 
   .title-column {
-    font-size: 1.5em;
+    font-size: 1.3em;
   }
 
   .item {
-    font-size: 1.3em;
+    font-size: 1em;
   }
 }
