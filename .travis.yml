@@ -20,6 +20,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB
-  local_dir: ./dist/moviles
+  local_dir: ./dist/escuela
   on:
     branch: master
